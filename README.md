@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <strong>Jay</strong>💻</h1>
 <hr>
-<h2 align="center">Pursuing in 3rd Year Computer-Engineering <strong>Let's Deep Dive Into Web Development</strong></h2>
+<h2 align="center">Pursuing in 3rd Year Computer-Engineering,Let's Deep Dive Into Web Development</h2>
 
 - 🔭 I’m currently working on **DSA, Front-end web development , Back-end development**
 
