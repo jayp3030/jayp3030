@@ -10,5 +10,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jay-prajapati-34519620b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay prajapati" height="30" width="40" /></a>
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayp3030&show_icons=true&locale=en" alt="jayp3030" /></p>
+<p align="center" margin-top="1rem"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayp3030&show_icons=true&locale=en" alt="jayp3030" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayp3030&" alt="jayp3030" /></p>
