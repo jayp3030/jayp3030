@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm <strong>Jay</strong>💻</h1>
 <hr>
 <h2 align="center">Pursuing in 3rd Year Computer-Engineering,Let's Deep Dive Into Web Development</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 🔭 I’m currently working on **DSA, Front-end web development , Back-end development**
 
