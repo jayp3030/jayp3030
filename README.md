@@ -11,10 +11,8 @@
 
 - 💬 Ask me about **Web dev**
 
-<h3 align="left">Reach Me Out:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jay-prajapati-34519620b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay prajapati" height="30" width="40" /></a>
-</p>
+- How to reach me : <a href="https://www.linkedin.com/in/jay-prajapati-34519620b/" target="blank"> <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white"/><a/>
+
 <div>
   <h3 align="left">Languages Using:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
