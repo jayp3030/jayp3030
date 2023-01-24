@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Jay</strong>💻</h1>
+<img src="https://komarev.com/ghpvc/?username=jayp3030&style=flat-square&color=blue" alt=""/>
 <hr>
 <h2 align="center">Pursuing in 3rd Year Computer-Engineering,Let's Deep Dive Into Web Development</h2>
 <div align="center">
