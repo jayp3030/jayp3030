@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm <strong>Jay</strong>💻</h1>
-<img src="https://komarev.com/ghpvc/?username=jayp3030&style=flat-square&color=blue" align="center" alt=""/>
 <hr>
 <h2 align="center">Pursuing in 3rd Year Computer-Engineering,Let's Deep Dive Into Web Development</h2>
 <div align="center">
@@ -27,5 +26,5 @@
 </div>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jayp3030" alt="jayp3030" /></p>
-<p align-"center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp3030&layout=compact&theme=vision-friendly-dark" alt="java , js , html , css , nodejs , react" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp3030&layout=compact&theme=vision-friendly-dark" alt="java , js , html , css , nodejs , react" /></p>
 
