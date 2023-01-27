@@ -21,8 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f657870726573732d6f726967696e616c2d776f72646d61726b2e737667" title="express js" **alt="express js" width="40" height="40"/>&nbsp;
-   <img src="68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" title="express js" **alt="express js" width="40" height="40"/>&nbsp;
+   <img src="https://camo.githubusercontent.com/93acca6a99de2894799bf5e78396c83a682e46a4b1d98aa3127ae7b25c3754b6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f657870726573732d6f726967696e616c2d776f72646d61726b2e737667" title="express js" **alt="express js" width="40" height="40"/>&nbsp;
+   <img src="https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7eca8dd16b43995bf372b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" title="mongo db" **alt="mongo db" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
