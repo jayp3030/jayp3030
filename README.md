@@ -25,5 +25,5 @@
 </div>
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jayp3030" alt="jayp3030" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp3030&layout=compact&theme=vision-friendly-dark" alt="java , js , html , css , nodejs , react" /></p>
-
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp3030&layout=compact&theme=vision-friendly-dark" alt="java , js , html , css , nodejs , react" /></p>
+ -->
