@@ -27,5 +27,5 @@
   
 </div>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jayp3030" alt="jayp3030" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jayp3030&border_radius=5" alt="GitHub Streak" /></a>
 
